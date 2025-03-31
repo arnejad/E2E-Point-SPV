@@ -8,10 +8,10 @@ The repository for executing the behavioral gaze-contingent experiment:
 [https://github.com/LEO-UMCG/SPV-Gaze-Contingency](https://github.com/LEO-UMCG/SPV-Gaze-Contingency)
 
 
-For citations please use the following publication:
+For citations please use the following [publication](https://doi.org/10.3389/fnhum.2025.1549698):
 
 ```
-The paper information will be provided after publication
+Nejad, Ashkan, Burcu Küçükoǧlu, Jaap de Ruyter van Steveninck, Sandra Bedrossian, Joost Heutink, Gera A. de Haan, Frans W. Cornelissen, and Marcel van Gerven. "Point-SPV: end-to-end enhancement of object recognition in simulated prosthetic vision using synthetic viewing points." Frontiers in Human Neuroscience 19 (2025): 1549698. https://doi.org/10.3389/fnhum.2025.1549698
 ```
 
 ## Remark and Acknowledgement
